@@ -6,6 +6,24 @@ Proyecto de control de versiones con Git y GitHub - Curso Alchemy
 
 ---
 
+---
+
+## 🔐 Credenciales de Prueba
+
+Para acceder a la billetera digital, usa estas credenciales:
+
+**Correo:** `admin@bille.com`  
+**Contraseña:** `12345`
+
+### Funcionalidades Disponibles:
+- ✅ Ver saldo actual
+- ✅ Depositar dinero
+- ✅ Enviar transferencias
+- ✅ Ver historial de transacciones
+- ✅ Gestionar contactos
+
+---
+
 ## 📋 Contenido
 
 - `index.html` - Interfaz principal
